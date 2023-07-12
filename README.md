@@ -38,4 +38,4 @@
 - Increase the batch size for batch  normalization . This will certainly reduce the noise.
 - Try Group normaliation to make model stable
 - Adjust the momentum of Batch Normaliation
-- 
+
